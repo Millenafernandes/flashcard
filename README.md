@@ -4,3 +4,7 @@
 * NVM USER V(...)
 * DEPOIS DESSE COMANDO, PODE COMEÇAR, OS COMANDOS COM NODE 
 * NVM LS(LISTA AS VERSOES DO NODE)
+* ng new (...)
+* npm install -g @angular/cli@14.0.0
+* ng server
+
