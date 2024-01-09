@@ -14,4 +14,5 @@
 * crtl + d seleciona todas as palavras iguais.
 * alt + shift + seta p/ baixo duplica embaixo o techo de codigo
 * property bindyng dentro da tag usa colchete, fora usa {{}}
+* textarea é um type
 
