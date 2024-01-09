@@ -10,4 +10,5 @@
 * Em app, cria a pasta components.
 * ng g c components/nome do componente a ser criado
 * assets fica a pasta de imagens
+* crtl + c interrompe o servidor
 
