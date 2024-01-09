@@ -16,4 +16,5 @@
 * property bindyng dentro da tag usa colchete, fora usa {{}} sentido components para template
 * textarea é um type
 * objetos no typescrpit(parece json) ficam entre o exports... e o construtor.
+* as rotas ficam no app-routing.modules.ts entre os colchets da const routes
 
