@@ -12,5 +12,5 @@
 * assets fica a pasta de imagens
 * crtl + c interrompe o servidor
 * crtl + d seleciona todas as palavras iguais.
-* alt + shift duplica
+* alt + shift + seta p/ baixo duplica embaixo o techo de codigo
 
