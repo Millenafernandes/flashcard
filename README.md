@@ -11,4 +11,6 @@
 * ng g c components/nome do componente a ser criado
 * assets fica a pasta de imagens
 * crtl + c interrompe o servidor
+* crtl + d seleciona todas as palavras iguais.
+* alt + shift duplica
 
