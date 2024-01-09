@@ -15,4 +15,5 @@
 * alt + shift + seta p/ baixo duplica embaixo o techo de codigo
 * property bindyng dentro da tag usa colchete, fora usa {{}}
 * textarea é um type
+* objetos no typescrpit(parece json) ficam entre o exports... e o construtor.
 
