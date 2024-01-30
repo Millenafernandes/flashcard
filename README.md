@@ -6,7 +6,7 @@
 * NVM LS(LISTA AS VERSOES DO NODE)
 * ng new (...)
 * npm install -g @angular/cli@14.0.0
-* ng server
+* ng serve (nao funciona no powershell, so cmd)
 * Em app, cria a pasta components.
 * ng g c components/nome do componente a ser criado
 * assets fica a pasta de imagens
